@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jingwutong_android.iml" filepath="$PROJECT_DIR$/../jingwutong_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../library/library.iml" filepath="$PROJECT_DIR$/../library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../multi-image-selector/multi-image-selector.iml" filepath="$PROJECT_DIR$/../multi-image-selector/multi-image-selector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary320.iml" filepath="$PROJECT_DIR$/openCVLibrary320.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../picasso/picasso.iml" filepath="$PROJECT_DIR$/../picasso/picasso.iml" />
+    </modules>
+  </component>
+</project>
